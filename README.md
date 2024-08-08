@@ -2,7 +2,7 @@
 
 
 
-# Hi there , I'm Mobin Izadi 👋 
+# Hi there 👋  , I'm Mobin Izadi 
 
 
 welcome to my GitHub page! I'm a junior front-end developer who never gets tired of learning. Programming is not just my job; it's the key to a world where I love to be.
