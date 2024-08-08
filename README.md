@@ -28,7 +28,7 @@ const aboutMe = {
     education: {
         degree: 'Bachelor of Computer Engineering',
         institution: 'Islamic Azad University, Gorgan',
-        graduationYear: 2021
+        graduationYear: 2024
     },
     }
 ```
