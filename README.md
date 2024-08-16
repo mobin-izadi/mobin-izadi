@@ -67,7 +67,7 @@ const aboutMe = {
 
 ![mobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobin-izadi&show_icons=true&theme=onedark)
 
-`📅 The latest README update: 2024-08-08 `
+`📅 The latest README update: 2024-08-16 `
 
 
 
