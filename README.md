@@ -50,7 +50,7 @@ const aboutMe = {
 
 ## ⚡Projects
 
-Coming Soon ...❤️
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mobin-izadi&repo=portfolio)](https://github.com/mobin-izadi/portfolio)
 
 
 
